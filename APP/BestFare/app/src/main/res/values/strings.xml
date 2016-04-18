@@ -1,0 +1,68 @@
+<resources>
+
+    <string name="forgot_submit">Submit</string>
+    <string name="app_name">BestFare</string>
+    <string name="title_activity_maps">BestFare</string>
+    <string name="time">2</string>
+    <string name="tag">Cheapest cab near by you.</string>
+    <string name="singnUp">Sign Up</string>
+    <string name="signIn">Sign in</string>
+    <string name="terms">Terms | Policy</string>
+    <string name="visible">True</string>
+    <string name="Invisible">False</string>
+    <string name="btn_link_to_register">No account yet? Create one</string>
+    <string name="btn_login">Sign In</string>
+    <string name="hint_password">Password</string>
+    <string name="hint_email">Email</string>
+    <string name="register_activity">Sign Up</string>
+    <string name="facebook_app_id">251239285218863</string>
+    <string name="forgot_password">Forgot password?</string>
+    <string name="user_name">Name</string>
+    <string name="mobile_num">10 Digit Mobile No.</string>
+    <string name="copyrights">"@"2016 copyrights"</string>
+    <string name="otp_hint">Enter OTP</string>
+    <string name="otp_text">Sit back &amp; relax! While we verify your mobile number.</string>
+<string name="otp_text2">(Enter OTP in case we fail to detect.)</string>
+    <string name="terms_policy"><i>I agree to <b>Terms of use</b> and <b>Privacy Policy</b></i></string>
+    <string name="gender_prompt">Who are you?</string>
+    <string name="verifyme">Verify me</string>
+    <string name="Search">Search</string>
+    <string name="source">Retrieving your location..</string>
+<string name="from">From \r\n</string>
+    <string name="to">To \r\n<br/></string>
+    <string-array name="gender_arrays">
+        <item>Male</item>
+        <item>Female</item>
+        <item>Other</item>
+
+    </string-array>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="drawer_open">Slider Menu Opened</string>
+    <string name="drawer_close">Slider Menu Closed</string>
+
+    <string-array name="navDrawerItems">
+        <item>Squad</item>
+        <item>Fixtures</item>
+        <item>Table</item>
+        <item>Transfer Zone</item>
+        <item>Gallery</item>
+        <item>Connect</item>
+    </string-array>
+
+    <string-array name="navDrawerIcons">
+
+        <item>@drawable/squad</item>
+        <item>@drawable/fixtures</item>
+        <item>@drawable/table</item>
+        <item>@drawable/transfer</item>
+        <item>@drawable/gallery</item>
+        <item>@drawable/connect</item>
+
+
+    </string-array>
+    <string name="notification">
+        <item>@drawable/notification_bell</item>
+    </string>
+
+</resources>

@@ -1,0 +1,24 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.NoActionBar">
+        <!-- Customize your theme here. -->
+    </style>
+    <style name="MyMaterialTheme" parent="MyMaterialTheme.Base">
+
+    </style>
+
+    <style name="OverFlow" parent="Base.Widget.AppCompat.ActionButton.Overflow">
+        <item name="android:src">@drawable/notification_bell</item>
+    </style>
+    <style name="MyMaterialTheme.Base" parent="Theme.AppCompat.Light.NoActionBar">
+        <item name="windowNoTitle">true</item>
+        <item name="android:actionOverflowButtonStyle">@style/OverFlow</item>
+        <item name="windowActionBar">false</item>
+        <item name="colorPrimary">@color/splashPgBg</item>
+        <item name="colorPrimaryDark">@color/button_sign_bg</item>
+        <item name="colorAccent">@color/splashPgBg</item>
+    </style>
+
+
+</resources>
